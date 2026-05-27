@@ -1,1 +1,1 @@
-# win-glance-issues
+# WinGlance
